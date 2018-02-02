@@ -53,7 +53,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background: linear-gradient(0deg, #219fea 0%, #bff9C0 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -77,7 +77,7 @@ header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
   border-radius: 100%;
-  background: linear-gradient(0deg, #ee0979 0%, #ff6a00 100%);
+  background: linear-gradient(0deg, #bff9C0 0%, #219fea 100%);
 }
 
 header.masthead .bg-circle-1 {
@@ -122,12 +122,12 @@ header.masthead .bg-circle-4 {
 }
 
 .bg-primary {
-  background-color: #ee0979 !important;
+  background-color: #bff9C0 !important;
 }
 
 .btn-primary {
-  background-color: #ee0979;
-  border-color: #ee0979;
+  background-color: #bff9C0;
+  border-color: #bff9C0;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -140,8 +140,8 @@ header.masthead .bg-circle-4 {
 }
 
 .btn-secondary {
-  background-color: #ff6a00;
-  border-color: #ff6a00;
+  background-color: #219fea;
+  border-color: #219fea;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
